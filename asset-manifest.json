@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ShopIt-Ecommerce/static/css/main.5b98d8d7.css",
-    "main.js": "/ShopIt-Ecommerce/static/js/main.730b9db6.js",
+    "main.js": "/ShopIt-Ecommerce/static/js/main.edbfe41a.js",
     "static/media/slider_img_2.jpg": "/ShopIt-Ecommerce/static/media/slider_img_2.d2b62640a3fd93694d28.jpg",
     "static/media/slider_img_1.jpg": "/ShopIt-Ecommerce/static/media/slider_img_1.b52758991907ca139bed.jpg",
     "static/media/shopping_cart.png": "/ShopIt-Ecommerce/static/media/shopping_cart.9bdd8040b334d31946f4.png",
@@ -13,10 +13,10 @@
     "static/media/loader.svg": "/ShopIt-Ecommerce/static/media/loader.02a3e4afc0e85e0555b849b5c2a4f012.svg",
     "index.html": "/ShopIt-Ecommerce/index.html",
     "main.5b98d8d7.css.map": "/ShopIt-Ecommerce/static/css/main.5b98d8d7.css.map",
-    "main.730b9db6.js.map": "/ShopIt-Ecommerce/static/js/main.730b9db6.js.map"
+    "main.edbfe41a.js.map": "/ShopIt-Ecommerce/static/js/main.edbfe41a.js.map"
   },
   "entrypoints": [
     "static/css/main.5b98d8d7.css",
-    "static/js/main.730b9db6.js"
+    "static/js/main.edbfe41a.js"
   ]
 }
